@@ -6,16 +6,16 @@ Prototyp obwodu został zaprojektowany w programie KiCad, w którym też został
 Ostatecznie robot został zrealizowany na procesorze Arduino Uno
 
 ### Zespół
-Projekt był wykonywany w 3 osoby, ale dokończony już samodzielnie (opisy ról z dokumentacji były podrasowane dla morali zespołu)
-Moimi zadaniami było:
--Prototypowanie obwodu i schematu płytki w programie KiCad
--Napisanie kodu w programie Arduino Uno
--Zmontowanie video
--Zarządanie zadaniami
-Wspólnie:
--pozyskanie części
--składanie robota
--testowanie robota
+Projekt był wykonywany w 3 osoby, ale dokończony już samodzielnie (opisy ról z dokumentacji były podrasowane dla morali zespołu)  
+Moimi zadaniami było:  
+-Prototypowanie obwodu i schematu płytki w programie KiCad  
+-Napisanie kodu w programie Arduino Uno  
+-Zmontowanie video  
+-Zarządanie zadaniami  
+Wspólnie:  
+-pozyskanie części  
+-składanie robota  
+-testowanie robota 
 
 ![Schemat obwodu](https://github.com/user-attachments/assets/5c21781a-fb0a-418a-8d59-08e314bf60dd)
 ![Schemat płytki](https://github.com/user-attachments/assets/ec0f3575-45e7-42cd-94d6-99487bcffbad)
