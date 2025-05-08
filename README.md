@@ -17,6 +17,10 @@ Wspólnie:
 -składanie robota
 -testowanie robota
 
+![Schemat obwodu](https://github.com/user-attachments/assets/5c21781a-fb0a-418a-8d59-08e314bf60dd)
+![Schemat płytki](https://github.com/user-attachments/assets/ec0f3575-45e7-42cd-94d6-99487bcffbad)
+
+
 ### Status projetku
 Ukończony
 
